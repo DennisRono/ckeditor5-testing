@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^32.0.0",
+    "@ckeditor/ckeditor5-ckfinder": "^32.0.0",
+    "ckeditor5": "^32.0.0",
+    "json-format": "^1.0.1",
+    "node-cron": "^3.0.0",
+    "shelljs": "^0.8.5"
+  }
+}
